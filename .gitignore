@@ -1,0 +1,21 @@
+#images
+
+*.blg
+*.pdfsync
+*.spl
+*.fls
+*.toc
+*.nav
+*.snm
+*~
+*.idx
+*.glo
+*.ist
+*.fmt
+*.prv
+*.out
+
+
+## data 
+*.rds
+
